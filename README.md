@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @Rocky3112
-- 👀 I’m interested in html
-- 🌱 I’m currently learning CSS
+- 👋 Hi, I’m  Alamgir Hossain Rocky
+- 👀 I’m interested to become a Web Developer
+- 🌱 I’m currently learning how to become a professional web developer
 - 💞️ I’m looking to collaborate on learn
 - 📫 How to reach me ...
 
