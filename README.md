@@ -1,4 +1,4 @@
- <img src="https://www.wingstechsolutions.com/wp-content/uploads/2022/03/full-stack-development.gif" alt="Alt text" style="width: 100%;">
+ <img src="https://www.wingstechsolutions.com/wp-content/uploads/2022/03/full-stack-development.gif" alt="Alt text" height="400" width="100%">
 - <h1 align="center">Hi 👋, I'm Alamgir Hossain Rocky</h1>
 <h3 align="center">A passionate Web Developer</h3>
 <img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/69011963/137184767-79a13ec7-1bb3-4341-a6da-3a149c9c159a.gif"/>
